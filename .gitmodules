@@ -1,15 +1,15 @@
 [submodule "packages/SMSwithoutBorders_Admin"]
 	path = packages/SMSwithoutBorders_Admin
-	url = git@github.com:smswithoutborders/SMSwithoutBorders_Admin.git
+	url = https://github.com/smswithoutborders/SMSwithoutBorders_Admin.git
 [submodule "packages/SMSwithoutborders_API_services"]
 	path = packages/SMSwithoutborders_API_services
-	url = git@github.com:smswithoutborders/SMSwithoutborders_API_services.git
+	url = https://github.com/smswithoutborders/SMSwithoutborders_API_services.git
 [submodule "packages/SMSwithoutBorders_Users"]
 	path = packages/SMSwithoutBorders_Users
-	url = git@github.com:smswithoutborders/SMSwithoutBorders_Users.git
+	url = https://github.com/smswithoutborders/SMSwithoutBorders_Users.git
 [submodule "packages/Deku"]
 	path = packages/Deku
-	url = git@github.com:smswithoutborders/Deku.git
+	url = https://github.com/smswithoutborders/Deku.git
 [submodule "packages/Deku-Router"]
 	path = packages/Deku-Router
-	url = git@github.com:smswithoutborders/Deku-Router.git
+	url = https://github.com/smswithoutborders/Deku-Router.git
